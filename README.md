@@ -1,4 +1,4 @@
-#PWC Cyber Workshop 2026
+## PWC Cyber Workshop 2026
 
 A PwC cybersecurity workshop assignment focused on security log analysis and threat detection.
 
